@@ -1,4 +1,4 @@
-![dog photo 3.jpg](..%2F..%2FDownloads%2Fdog%20photo%203.jpg)
+![photo](https://github.com/lokicik/Aygaz_Deep_Learning_Project/assets/65876412/bac6b2e0-dea3-48e9-89ae-80a188843347)
 
 The repo of 120 Dog Breed Classification Deep Learning Project for Aygaz Deep Learning Bootcamp.
 
